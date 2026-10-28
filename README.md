@@ -15,7 +15,7 @@ Now I'm going deeper on the engineering side of reliability. This year I'm build
 ### What I bring
 
 - **Incident command:** 2000 major incidents led per year, bridges with 10+ teams
-- **Executive communication:** status updates and escalations for [LCO Customer/All regions]
+- **Executive communication:** status updates and escalations for LCO customers across all regions
 - **Process:** postmortems, problem management, ITIL-based escalation, Incident Management
 
 
@@ -23,25 +23,26 @@ Now I'm going deeper on the engineering side of reliability. This year I'm build
 
 | Month | Project | Skill | Status |
 | --- | --- | --- | --- |
-| Nov 2026 | [incident-scribe](https://github.com/your-username/incident-scribe) | Python automation | 🟡 In progress |
-| Dec 2026 | [reliability-scorecard](https://github.com/your-username/reliability-scorecard) | SQL, incident analytics | ⚪ Planned |
-| Jan 2027 | [resilient-web-app](https://github.com/your-username/resilient-web-app) | Cloud, Terraform | ⚪ Planned |
-| Feb 2027 | [k8s-demo-platform](https://github.com/your-username/k8s-demo-platform) | Linux, Docker, Kubernetes | ⚪ Planned |
-| Mar 2027 | [observability-lab](https://github.com/your-username/observability-lab) | Prometheus, Grafana, OpenTelemetry | ⚪ Planned |
-| Apr 2027 | [game-day-kit](https://github.com/your-username/game-day-kit) | SLOs, chaos engineering, postmortems | ⚪ Planned |
-| May 2027 | [incident-bot](https://github.com/your-username/incident-bot) | ChatOps automation | ⚪ Planned |
-| Jun 2027 | [incident-copilot](https://github.com/your-username/incident-copilot) | LLMs, RAG over runbooks | ⚪ Planned |
-| Jul 2027 | [triage-agent](https://github.com/your-username/triage-agent) | AI agents, AIOps | ⚪ Planned |
-| Aug 2027 | [ai-incident-playbook](https://github.com/your-username/ai-incident-playbook) | AI governance, evals | ⚪ Planned |
-| Sep 2027 | [reliability-program-pitch](https://github.com/your-username/reliability-program-pitch) | Reliability strategy | ⚪ Planned |
-| Oct 2027 | [portfolio](https://github.com/your-username/portfolio) | Portfolio and demos | ⚪ Planned |
+| Nov 2026 | `incident-scribe` | Python automation | 🟡 In progress |
+| Dec 2026 | `reliability-scorecard` | SQL, incident analytics | ⚪ Planned |
+| Jan 2027 | `resilient-web-app` | Cloud, Terraform | ⚪ Planned |
+| Feb 2027 | `k8s-demo-platform` | Linux, Docker, Kubernetes | ⚪ Planned |
+| Mar 2027 | `observability-lab` | Prometheus, Grafana, OpenTelemetry | ⚪ Planned |
+| Apr 2027 | `game-day-kit` | SLOs, chaos engineering, postmortems | ⚪ Planned |
+| May 2027 | `incident-bot` | ChatOps automation | ⚪ Planned |
+| Jun 2027 | `incident-copilot` | LLMs, RAG over runbooks | ⚪ Planned |
+| Jul 2027 | `triage-agent` | AI agents, AIOps | ⚪ Planned |
+| Aug 2027 | `ai-incident-playbook` | AI governance, evals | ⚪ Planned |
+| Sep 2027 | `reliability-program-pitch` | Reliability strategy | ⚪ Planned |
+| Oct 2027 | `portfolio` | Portfolio and demos | ⚪ Planned |
 
 Status key: ⚪ Planned · 🟡 In progress · 🟢 Done
 
 ### 🧰 Tools I'm working with
 
-**Now:** ServiceNow · ITIL 4 · Slack/Teams bridges · Python · Git
-**Learning:** SQL · AWS · Terraform · Docker · Kubernetes · Prometheus · Grafana · OpenTelemetry · LLM APIs
+**Now:** ServiceNow · ITIL 4 · Slack/Teams bridges
+
+**Learning:** Python · Git · SQL · AWS · Terraform · Docker · Kubernetes · Prometheus · Grafana · OpenTelemetry · LLM APIs
 
 ### 📌 Currently
 
@@ -51,4 +52,4 @@ Status key: ⚪ Planned · 🟡 In progress · 🟢 Done
 
 ---
 
-<sub>Follow the journey: [reliability-journey](https://github.com/your-username/reliability-journey)</sub>
+<sub>Follow the journey: `reliability-journey`</sub>
